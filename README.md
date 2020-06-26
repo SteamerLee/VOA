@@ -1,5 +1,5 @@
 # Virus Optimization Algorithm (VOA)
-This program is developed for implementing the Virus Optimization Algorithm (VOA).
+This repository is developed for implementing the Virus Optimization Algorithm (VOA).
 
 ## Functions
 1. The original version of continuous VOA.
