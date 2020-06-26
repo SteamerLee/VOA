@@ -1,7 +1,7 @@
 # Virus Optimization Algorithm (VOA)
 This program is developed for implementing the Virus Optimization Algorithm (VOA).
 
-## Function
+## Functions
 1. The original version of continuous VOA.
 2. The self-adaptive version of continuous VOA (SaVOA).
 
@@ -18,9 +18,9 @@ This program is developed for implementing the Virus Optimization Algorithm (VOA
 - show_train: Switch for showing the result of each iteration during training stage (Default: False) 
 
 ## How to use?
-- Build a new instance from VOA class object
+- Build a new instance from VOA class object.
 > voa_algo = VOA(func=func, dim=problem_size, pop=pop, max_iter=iterations, bound=bound, self_adaptive=False, show_train=False)
-- Run VOA
+- Run VOA.
 > best_solution, best_fitness = voa_algo.run()
 
 ## Reference
